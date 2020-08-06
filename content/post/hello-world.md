@@ -8,7 +8,9 @@ timeToRead = 0
 title = "Hello World"
 
 +++
-We're grateful and humbled by the success of Hamazon.com, the world's premier purveyors of pork. We've learned so much and are eager to give back to the community. Enter Hamazon Investment Capital, our vehicle to invest in companies which 
+![](https://www.nicepng.com/png/detail/980-9803933_emoji-emoji-pray-thankyou-thanks-praying-hands-emoji.png)
+
+**We're grateful and humbled** by the success of [Hamazon.com](http://hamazon.example.com), the world's premier purveyors of pork. We've learned so much and are eager to give back to the community. Enter Hamazon Investment Capital, our vehicle to invest in companies which
 
 Bacon ipsum dolor amet capicola turducken rump, hamburger burgdoggen doner prosciutto t-bone cow. Ball tip bacon beef ribs, strip steak chuck pastrami pancetta ham t-bone pig meatloaf capicola salami doner. Shank salami kielbasa meatball, prosciutto tri-tip pig rump alcatra spare ribs ground round short loin. Fatback beef short ribs shoulder turkey meatloaf picanha ribeye chislic strip steak spare ribs boudin sausage doner. Strip steak sausage fatback salami filet mignon pancetta tail corned beef picanha beef. Ball tip ribeye shank, chislic chuck jowl tongue t-bone.
 
